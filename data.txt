@@ -1,0 +1,5 @@
+s|dassuptirani@gmail.com|s|1|1|Female|1/1/1
+supti|dassuptirani@gmail.com|supti|supti|supti|Female|1/1/1
+s|dassuptirani@gmail.com|z|z|z|Female|1/1/1
+Tonmoy|tanmoy1196@gmail.com|doctor|doctor|doctor|Female|1/1/1
+Tisha|tanmoy1196@gmail.com|a|1|1|Female|1/1/1
